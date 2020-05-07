@@ -3,7 +3,7 @@ version: 0.1
 phases:
   build:
     commands:
-    echo - Nothing to define yet
+      - echo Nothing to define yet
 artifacts:
   file:
     - index.html
