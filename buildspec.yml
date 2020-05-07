@@ -5,7 +5,7 @@ phases:
     commands:
       - echo Nothing to define yet
 artifacts:
-  file:
+  files:
     - index.html
     - 404.html
     - images/*
